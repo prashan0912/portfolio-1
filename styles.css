@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://marketplace.canva.com/EAEbucQENfs/2/0/1600w/canva-dark-green-waves-all-business-linktree-background-tbs6SYB7UuA.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image {
+    position: absolute;
+    left: 55%;
+    align-items: center;
+}
+
+.p1 {
+    font-size: 45px;
+    color: white;
+    align-items: center;
+    width: 300px;
+    /* border-style: hidden; */
+    position: absolute;
+    left:30%;
+    margin: 9%;
+
+}
